@@ -75,7 +75,7 @@ Follow these steps to get started:
 ---
 
 ## Results
-<img src='https://raw.githubusercontent.com/AdiKhanOfficial/face_swapping/refs/heads/main/Results/Result.jpg' style='width:100%'/>
+<img src='https://raw.githubusercontent.com/iqrakanwal99/face-swap-app/refs/heads/main/123.png' style='width:100%'/>
 
 ---
 
@@ -84,5 +84,6 @@ Follow these steps to get started:
 Contributions are welcome! If you’d like to improve the app or add new features, feel free to fork the repository, make your changes, and submit a pull request.
 
 ---
+
 
 
